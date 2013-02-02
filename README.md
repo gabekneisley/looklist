@@ -13,7 +13,9 @@ opinionated and either likes or hates most of what she sees.
 
 With Looklist, she can browse editorials, advertisements, blogs, stores--basically any digital fashion 
 source--and quickly add the items she loves to one or more of her personal looks. She can also add the 
-clothes she already owns.
+clothes she already owns. She can then share these looks with the whole world, some or all of her facebook 
+friends, the brands who sell things she doesn't own, or with no one at all. She has control over 
+who sees what on a look-by-look basis.
 
 She has also given detailed measurements to looklist (which are only shown to merchants who are bound to a
 strict privacy policy). This lets sellers know how to size her, even if she doesn't know how their sizes 
