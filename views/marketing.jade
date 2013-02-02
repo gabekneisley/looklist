@@ -1,0 +1,22 @@
+extends layout
+
+block viewport
+  meta(name='viewport', content='width=device-width, initial-scale=1.0')
+
+block stylesheets
+  link(rel="stylesheet", href="/stylesheets/style.css")
+  link(rel="stylesheet", href="/stylesheets/marketing.css")
+  
+block shims
+  //[if lt IE 9]
+    script(src='http://html5shim.googlecode.com/svn/trunk/html5.js')
+    
+block icons
+  link(rel='apple-touch-icon-precomposed', sizes='144x144', href='../icons/apple-touch-icon-144-precomposed.png')
+  link(rel='apple-touch-icon-precomposed', sizes='114x114', href='../icons/apple-touch-icon-114-precomposed.png')
+  link(rel='apple-touch-icon-precomposed', sizes='72x72', href='../icons/apple-touch-icon-72-precomposed.png')
+  link(rel='apple-touch-icon-precomposed', sizes='57x57', href='../icons/apple-touch-icon-57-precomposed.png')
+  link(rel='shortcut icon', href='../icons/favicon.png')
+  
+block mastercontent
+  block content
